@@ -1,3 +1,7 @@
 body {
-    background-color: aqua;
+    background-color: #317EFB;
+}
+li {
+    margin: 8px; 
+    padding: 48px;
 }
