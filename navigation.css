@@ -9,5 +9,9 @@ img {
     width: 200px;
     height: auto; 
     max width: 100%;
-    
+
+}
+
+p {
+    color: black;
 }
