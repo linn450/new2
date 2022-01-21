@@ -4,3 +4,10 @@ body {
 li {
     padding: 10px;
 }
+
+img {
+    width: 200px;
+    height: auto; 
+    max width: 100%;
+    
+}
